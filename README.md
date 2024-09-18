@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafia
-- 👀 I’m interested in programming and also cybersecurity 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate in basics of coding
 - 📫 How to reach me email me i'll try to respond maybe
